@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class FilterComponent {
 
+  all: number = 10;
+  free: number = 4;  
+  premium: number = 6;
 }
